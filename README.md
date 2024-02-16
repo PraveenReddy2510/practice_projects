@@ -5,4 +5,4 @@ All Projects for Practicing
 - Check the project having IaC with AWS CFT (Cloud Formation Template) with JSON and YAML
 - Check the project havin IaC with Python by interacting with AWS API
 - Check the  project havin IaC with Bash by interacting with AWS CLI/API
-- 
+- Check the project having IaC with Azure ARM (Azure Resource Manager)
